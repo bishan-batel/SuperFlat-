@@ -31,7 +31,10 @@
     [],
     [],
     [],
-    [],
+    [
+      "minecraft:flower_cherry",
+      "minecraft:trees_cherry"
+    ],
     []
   ],
   "has_precipitation": true,
